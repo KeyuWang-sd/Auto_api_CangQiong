@@ -1,0 +1,23 @@
+{
+  "code": 1,
+  "msg": null,
+  "data": {
+    "total": 1,
+    "records": [
+      {
+        "id": 16,
+        "username": "wangsan",
+        "name": "nanfeng",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "phone": "18557464792",
+        "sex": "1",
+        "idNumber": "199856741756951852",
+        "status": 1,
+        "createTime": "2026-03-12 21:32",
+        "updateTime": "2026-03-29 21:26",
+        "createUser": 1,
+        "updateUser": 1
+      }
+    ]
+  }
+}

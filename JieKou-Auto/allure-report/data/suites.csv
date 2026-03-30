@@ -1,0 +1,6 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","2079","test_login[data1]","test_cases","2026-03-30","passed","2026-03-30","TestLoginApi","test_login_api","",""
+"","2067","test_login[data4]","test_cases","2026-03-30","passed","2026-03-30","TestLoginApi","test_login_api","",""
+"","2068","test_login[data2]","test_cases","2026-03-30","failed","2026-03-30","TestLoginApi","test_login_api","",""
+"","2077","test_login[data3]","test_cases","2026-03-30","passed","2026-03-30","TestLoginApi","test_login_api","",""
+"","2049","test_login[data0]","test_cases","2026-03-30","passed","2026-03-30","TestLoginApi","test_login_api","",""

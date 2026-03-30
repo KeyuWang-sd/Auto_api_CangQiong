@@ -1,0 +1,44 @@
+base_url: http://localhost:8081
+
+test_data:
+  - username: Zhao
+
+    password: 123456
+
+    expect_code: 0
+
+    expect_msg: "账号不存在"
+
+
+  - username: wang
+
+    password: 123456
+
+    expect_code: 0
+
+    expect_msg: "账号不存在"
+
+
+  - username: li
+
+    password: 123456
+
+    expect_code: 1
+
+    expect_msg: null
+
+
+  - username: admin
+
+    password: 123456
+
+    expect_code: 1
+
+    expect_msg: null
+
+  #密码错误，登录失败，通过返回的登录失败的信息与成功的信息进行异常断言
+
+  - username: admin
+    password: 123789
+    expect_code: 0
+    expect_msg: "密码错误"
