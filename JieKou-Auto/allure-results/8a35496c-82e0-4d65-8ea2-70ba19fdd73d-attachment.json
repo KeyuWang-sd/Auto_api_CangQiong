@@ -1,0 +1,23 @@
+{
+  "code": 1,
+  "msg": null,
+  "data": {
+    "total": 1,
+    "records": [
+      {
+        "id": 15,
+        "username": "wanger",
+        "name": "里斯",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "phone": "15858694610",
+        "sex": "0",
+        "idNumber": "981617625462155847",
+        "status": 1,
+        "createTime": "2026-03-12 21:32",
+        "updateTime": "2026-03-29 21:26",
+        "createUser": 1,
+        "updateUser": 1
+      }
+    ]
+  }
+}

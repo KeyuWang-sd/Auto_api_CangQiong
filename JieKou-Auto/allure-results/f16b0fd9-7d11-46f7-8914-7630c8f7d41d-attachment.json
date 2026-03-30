@@ -1,0 +1,23 @@
+{
+  "code": 1,
+  "msg": null,
+  "data": {
+    "total": 1,
+    "records": [
+      {
+        "id": 11,
+        "username": "wangwu",
+        "name": "王五",
+        "password": "e10adc3949ba59abbe56e057f20f883e",
+        "phone": "13312345678",
+        "sex": "0",
+        "idNumber": "222333444555666999",
+        "status": 1,
+        "createTime": "2025-08-05 22:04",
+        "updateTime": "2026-03-12 09:59",
+        "createUser": 1,
+        "updateUser": 1
+      }
+    ]
+  }
+}
